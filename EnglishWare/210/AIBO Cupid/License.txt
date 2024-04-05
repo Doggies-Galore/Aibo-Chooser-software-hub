@@ -1,0 +1,149 @@
+IMPORTANT - READ CAREFULLY:  The following End-User License
+Agreement ("EULA") is a legal agreement between you and 
+Sony Corporation ("SONY").  You may use SONY’s software 
+enclosed herein (the "Software") to start up and operate 
+SONY’s entertainment robot ("Entertainment Robot") only.  
+BY USING THE SOFTWARE, YOU AGREE TO BE BOUND BY THE TERMS 
+OF EULA.  If you do not agree to the terms of this EULA, 
+please click on "DISAGREE" at the bottom of this page, 
+and you will be taken back to the webpage from which you 
+came from.
+
+END USER LICENSE AGREEMENT
+
+1.	LICENSE
+The Software is protected by copyright laws and 
+international copyright treaties, as well as other 
+intellectual property laws and treaties.  The Software 
+is licensed, not sold.
+
+2.	GRANT OF LICENSE
+This EULA grants you the following rights:
+    2.1 Software.  You have a non-exclusive and non-
+        transferable license, with no right to grant sub-
+        licenses, to use the Software for personal use 
+        purposes to start up and operate the Entertainment
+        Robot.
+
+    2.2 Storage/Network Use.  You may not distribute the 
+        Software to other computers over any information 
+        network (expressly including the Internet or an
+        internal network such as a LAN).
+
+3.	DESCRIPTION OF OTHER RIGHTS AND LIMITATIONS
+The license granted hereunder shall be subject to the 
+following restrictions and limitations except as expressly 
+permitted by applicable legislation:
+    3.1 Limitation on Modification, Reverse Engineering, 
+        Decompilation and Disassembly.  You may not modify,
+        reverse engineer, decompile or disassemble the 
+        Software in whole or in part.
+    3.2 Accessed Contents.  All contents accessed through 
+        the Software are the property of SONY or the 
+        applicable content owner and may be protected by 
+        applicable copyright law.  Except as specifically 
+        set forth herein, this license gives you no rights
+        to such contents.
+    3.3 Separation of Components.  The Software is licensed
+        as a single product.  Its component parts may not
+        be separated for use on more than one Entertainment
+        Robot.
+    3.4 Rental.  You may not sell, rent or lease the 
+        Software to any third party.
+    3.5 Transfer.  You may not transfer any of your rights
+        under this EULA to any third party.
+    3.6 Termination.  Without prejudice to any other rights
+        SONY may have, your rights under this EULA will 
+        terminate automatically if you fail to comply with
+        the terms and conditions of this EULA.  In such 
+        event, you must return the Software to SONY or 
+        submit to SONY proof of the destruction of all 
+        copies of the Software and all component parts 
+        thereof.  Articles 5 through 10 of this EULA shall
+        survive such termination.
+
+4.	RIGHT
+All title to and copyrights on the Software (included but
+not limited to audio, music and text incorporated into the
+Software) are owned and/or controlled by SONY and/or the
+applicable content owner(s).  All rights not specifically
+granted under this EULA are reserved by SONY or such 
+content owner(s).
+
+5.	EXCLUSION OF WARRANTY ON THE SOFTWARE
+You expressly acknowledge and agree that use of the 
+Software is at your sole risk.  THE SOFTWARE IS PROVIDED 
+"AS IS" AND WITHOUT WARRANTY OF ANY KIND, AND SONY 
+EXPRESSLY DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, 
+INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF 
+MERCHANTABILITY, NONINFRINGMENT AND FITNESS FOR A 
+PARTICULAR PURPOSE.  SONY DOES NOT WARRANT THAT THE 
+FUNCTIONS CONTAINED IN THE SOFTWARE WILL MEET YOUR 
+REQUIREMENTS, OR THAT THE OPERATION OF THE SOFTWARE WILL BE
+UNINTERRUPTED OR CORRECT.  FURTHERMORE, SONY DOES NOT 
+WARRANT OR MAKE ANY REPRESENTATIONS REGARDING THE USE OR 
+THE RESULTS OF THE USE OF THE SOFTWARE IN TERMS OF ITS 
+CORRECTNESS, ACCURACY, RELIABILITY, OR OTHERWISE.  NO ORAL
+OR WRITTEN INFORMATION OR ADVICE GIVEN BY SONY OR A SONY
+AUTHORIZED REPRESENTATIVE SHALL CREATE A WARRANTY.  SHOULD
+THE SOFTWARE PROVE DEFECTIVE, YOU (AND NOT SONY OR A SONY
+AUTHORIZED REPRESENTATIVE) ASSUME THE ENTIRE COST OF ALL
+NECESSARY SERVICING, REPAIR OR CORRECTION.  SOME
+JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED
+WARRANTIES, SO THE ABOVE EXCLUSION MAY NOT APPLY TO YOU.
+
+6.	LIMITATION OF LIABILITY
+SONY SHALL NOT BE LIABLE FOR ANY LOSS OR DAMAGES, EITHER 
+DIRECT, INCIDENTAL, CONSEQUENTIAL OR OTHERWISE, FOR BREACH
+OF ANY EXPRESS OR IMPLIED WARRANTY, BREACH OF CONTRACT,
+NEGLIGENCE, STRICT LIABILITY OR ANY OTHER LEGAL THEORY
+RELATED TO THE SOFTWARE.  SUCH DAMAGES INCLUDE, BUT ARE NOT
+LIMITED TO, LOSS OF PROFITS, LOSS OF REVENUE, LOSS OF DATA
+(INCLUDING BUT NOT LIMITED TO DATA RECORDED ON MEMORY 
+STICK(TM) BY YOU), LOSS OF USE OF THE PRODUCT OR ANY
+ASSOCIATED EQUIPMENT, DOWN TIME AND USER’S TIME, EVEN IF 
+SONY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION
+OF DIRECT, CONSEQUENTIAL OR INCIDENTAL DAMAGES, SO THE
+ABOVE EXCLUSION OR LIMITATION MAY NOT APPLY TO YOU.
+
+7.	DAMAGES ARISING OUT YOUR ACTIONS
+You will defend and hold SONY harmless from and against all
+liabilities, demands, damages, costs, expenses, or losses
+arising out of the use of the Software and/or breach of any
+of the provisions of this EULA by you.
+
+8.	APPLICABLE LAW
+This EULA shall be construed in accordance of the laws of
+the State of California.
+
+9.	SETTLEMENT OF DISPUTES
+    9.1 Arbitration.  You hereby agree that any and all
+        disputes that arise out of or relate in any way to
+        this EULA will be subject to the arbitration in 
+        California, the United States.  The arbitration
+        award shall be final and binding on you and SONY,
+        and both parties agree to be bound thereby.
+    9.2 WAIVER OF TRIAL BY JURY.  YOU HEREBY WAIVE ALL 
+        RIGHTS AND/OR ENTITLEMENT TO TRIAL BY JURY IN 
+        CONNECTION WITH ANY DISPUTE THAT ARISES OUT OF OR 
+        RELATES IN ANY WAY TO THIS EULA.
+
+10.	GENERAL
+Should any portion of this EULA be declared null and void
+by operation of law, or otherwise, the remainder of this
+EULA shall remain in full force and effect.  This EULA
+shall be binding upon the parties’ authorized successor and
+assignees.  Neither party’s waiver of any breach or failure
+to enforce any of the provisions of this EULA at any time
+shall in any way affect, limit or waive such party’s right
+thereafter to enforce and compel strict compliance with
+every other provision.  No modification of this EULA shall
+be effective unless in writing signed by both parties.
+
+[Contact Number]
+AIBO Customer Link
+	Tel: 1-800-427-2988
+	e-mail: aibosupport@info.sel.sony.com
+
+© 2002 Sony Corporation All rights reserved.

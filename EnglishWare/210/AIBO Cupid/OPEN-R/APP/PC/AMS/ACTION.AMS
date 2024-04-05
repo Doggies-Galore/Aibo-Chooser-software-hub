@@ -1,0 +1,45 @@
+SIT		270     0       Sit
+STAND		271     0       Stand
+LIE		272     0       Lie down (1)
+WALK            622     1       Walk
+STOP_WALK       603     0       Stop walking
+TURN            632     2       Turn around
+KICK		680     1       Kick
+TOUCH		692     1       Touch
+MOVE_HEAD       1008    3       Look in the specified direction
+TRACK_HEAD	1000	4	Track an object
+SEARCH		1001	4	Search for an object
+SEARCH.HEAD.NORMAL              1001       4    Search in the current head direction
+SEARCH.HEAD.SLOW                1002       4    Search slowly in the current head direction
+SEARCH.HEAD.NORMALCENT          1004       4    Look forward and search
+SEARCH.HEAD.SLOWCENT            1005       4    Look forward and search slowly
+SEARCH.HEAD.LOWCENT             1007       4    Look down and search
+PALONE.AUTO.EAR                 1997       0    Move both ears
+PALONE.AUTO.EARL                1992       0    Move the left ear
+PALONE.AUTO.EARR                1987       0    Move the right ear
+PALONE.AUTO.EARSTOP             2254       0    Stop moving ears
+PALONE.AUTO.TAILV               1419       0    Wag tail up and down
+PALONE.AUTO.TAILH               1433       0    Wag tail left and right
+PALONE.AUTO.TAILROT             1981       0    Rotate tail
+PALONE.AUTO.TAILD               1983       0    Lower tail
+PALONE.AUTO.TAILUP              1985       0    Raise tail
+PALONE.AUTO.TAILSTOP            2253       0    Stop moving tail
+MOVE.HEAD.FAST                  1010       3    Look quickly in the specified direction
+MOVE.HEAD.NORMAL                1008       3    Look in the specified direction
+MOVE.HEAD.SLOW                  1009       3    Look slowly in the specified direction
+MOVE.TURN.NORMAL                632        2    Turn around
+MOVE.TURN.SLOW                  631        2    Turn around slowly
+MOVE.MOVE.NORMAL                622        1    Walk
+MOVE.MOVE.SLOW                  621        1    Walk slowly
+CHGPOS.WALK.NORMAL              600        0    Change to walking posture
+CONTACT.RIGHT.TOUCH             692        1    Sit and touch with right paw
+CONTACT.RIGHT.TOUCH2            672        1    Crouch and touch with right paw
+CONTACT.FRONT.HEAD              1226       0    Head the ball
+CONTACT.FRONT.HEADR             1228       0    Head the ball to the right
+CONTACT.FRONT.HEADL             1227       0    Head the ball to the left
+CHGPOS.STATR.NORMAL             273        0    Lie down (2)
+SMESS.NOTICE.NOTICE1            117        0    Debug notice 1
+SMESS.NOTICE.NOTICE2            118        0    Debug notice 2
+SMESS.ERROR.ERROR1              119        0    Debug error notice 1
+SMESS.ERROR.ERROR2              120        0    Debug error notice 2
+SMESS.MODE.CLEAR                100        0    Clear debug indication

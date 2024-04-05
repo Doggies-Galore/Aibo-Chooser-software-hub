@@ -1,0 +1,58 @@
+H_ANGLE_RIGHT_MAX=-88
+H_ANGLE_LEFT_MAX=88
+V_ANGLE_HIGH_MAX=20
+V_ANGLE_LOW_MAX=-32
+
+CUEMAX=6
+
+CLOCK_BEGIN_H_MAX=25
+CLOCK_END_H_MAX=23
+
+MSGTYPEMAX 2
+MSGTYPE 1 S. s.
+MSGMAX 15
+1 WEDDING wedding
+2 BTHVN bthvn
+3 BACH bach
+4 SAINTS saints
+5 ENERGY energy
+6 MIAGETE miagete
+7 NAGISA nagisa
+8 SAKURAZAKA sakurazaka
+9 SAKURA sakura
+10 SEASON season
+11 TSUNAMI tsunami
+12 TRUTH truth
+13 FURUSATO furusato
+14 XMASEVE xmaseve
+15 NEWYEAR newyear
+MSGTYPE 2 W. w.
+MSGMAX 28
+1 USER1 user1
+2 USER2 user2
+3 USER3 user3
+4 USER4 user4
+5 USER5 user5
+6 LEAVING leaving
+7 NOTYET notyet
+8 LATE late
+9 CALLME callme
+10 OK ok
+11 NG ng
+12 THANKS thanks
+13 SORRY sorry
+14 TOOBAD toobad
+15 UNFAIR unfair
+16 CONGRATS congrats
+17 HANGIN hangin
+18 ITSTIME itstime
+19 FAB fab
+20 LAUGH laugh
+21 HEY hey
+22 SCREAM scream
+23 CRY cry
+24 LOVE love
+25 PEE pee
+26 DOG dog
+27 AIBO aibo
+28 SONY sony
